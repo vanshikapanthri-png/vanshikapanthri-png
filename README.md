@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your_Name]
+# 👋 Hi, I'm Vanshika Panthri
 
 🎓 **B.Tech Student | Tech Enthusiast | Problem Solver**  
-💡 Interested in **[intested field name]**
+💡 Interested in Ethical Hacking
 
 ---
 
@@ -61,9 +61,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [github.com/your-username](https://github.com/your-username)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 GitHub: [github.com/vanshikapanthri-png](https://github.com/your-username)
+- 💼 LinkedIn: [linkedin.com/in/vanshika-panthri-733396274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://linkedin.com/in/your-profile)
+- 📧 Email: vanshikapanthri@gmail.com
 
 ---
 
@@ -71,4 +71,3 @@
 
 > “I believe in learning by building and breaking things.”
 
-⭐ If you like my work, feel free to **star my repositories**!
